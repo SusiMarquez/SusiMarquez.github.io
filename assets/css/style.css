@@ -28,3 +28,10 @@ body{
 #carouselExampleCaptions .carousel-item{
    text-align: center;
 }
+
+/* Formulario */
+
+#contact .btn:hover {
+    color: #f7f3f3;
+    background-color: rgb(57, 59, 59);
+}
