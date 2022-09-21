@@ -1,0 +1,12 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.header img{
+    width: 15em;
+}
+
+.footer .fa-brands:hover {
+    color: #e6a8d0;
+}
