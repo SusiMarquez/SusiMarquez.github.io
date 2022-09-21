@@ -23,12 +23,6 @@ body{
     background-size: cover;
 }
 
-/* Empresas */
-
-#carouselExampleCaptions .carousel-item{
-   text-align: center;
-}
-
 /* Formulario */
 
 #contact .btn:hover {
